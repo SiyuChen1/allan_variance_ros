@@ -108,6 +108,9 @@ A config file is provided in `allan_variance_ros/config/sim.yaml`
 
 Some additional rosbags of real IMU data for different sensors is available [here](https://drive.google.com/drive/folders/1a3Es85JDKl7tSpVWEUZryOwtsXB8793o). Thanks to Patrick Geneva.
 
+### Matlab Implementation
+Matlab implementation is [here](https://de.mathworks.com/help/nav/ref/allanvar.html)
+
 ## Author
 
 [Russell Buchanan](https://raabuchanan.com/)
